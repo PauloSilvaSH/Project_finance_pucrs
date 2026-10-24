@@ -34,4 +34,4 @@ Atuo com construção, manutenção e evolução de pipelines de dados, transfor
 
 Os READMEs descrevem o objetivo, os arquivos principais, as tecnologias identificadas e as limitações conhecidas de cada projeto. Alguns fluxos dependem de arquivos locais, serviços externos ou configuração de Databricks; nem todos foram executados integralmente em ambiente limpo.
 
-**Contato profissional:** [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/PauloSilvaSH)
+**GitHub:** [github.com/PauloSilvaSH](https://github.com/PauloSilvaSH)
