@@ -1,3 +1,5 @@
+> **Portfólio:** [Índice geral dos projetos](https://github.com/PauloSilvaSH/Project_finance_pucrs/blob/main/PORTFOLIO.md) · [README de perfil pronto para publicação](https://github.com/PauloSilvaSH/Project_finance_pucrs/blob/main/README_PROFILE.md)
+
 # Análise de Ações da B3 — Pipeline de Dados e Machine Learning
 
 Projeto acadêmico de engenharia e análise de dados que organiza cotações históricas de ações brasileiras, prepara atributos analíticos, explora o comportamento dos ativos e compara modelos de regressão para estimar o fechamento do pregão seguinte.
